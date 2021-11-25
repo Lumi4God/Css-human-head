@@ -1,0 +1,44 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(3, 3, 3);
+    margin:10px 0 0 40%;
+}
+
+.bandana{
+    position: absolute;
+    bottom: 500px;
+    left: 720px;
+}
+
+.head{
+    border: 1px solid black;
+    background: rgb(43, 43, 42);
+    width: 500px;
+    height: 700px;
+    border-radius: 40% 40% 50% 50%;
+    position: relative;
+}
+
+.eyes{
+    background: transparent;
+    width: 400px;
+    position: absolute;
+    bottom: 590px;
+    /* left: 800px; */
+}
+
+.cover{
+    position: absolute;
+    bottom: 40px;
+    left: 730px;
+    width: 500px;
+}
+
+.hear{
+    width: 200px;
+    position: absolute;
+    right: 560px;
+    bottom: 430px;
+    color: rgb(129, 129, 111);
+}
